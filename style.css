@@ -1,0 +1,59 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #6788db;
+}
+.container {
+  max-width: 80%;
+  margin: 0 auto;
+}
+.navegacion {
+  background-color: #f8b0d1;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+.navegacion a {
+  color: #000;
+  text-decoration: none;
+  margin-right: 15px;
+}
+.banner {
+  background-color: #f8f8f8;
+  text-align: center;
+  padding: 50px;
+  color: #000;
+}
+
+.nav2{
+    background-color: #bed4eb;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+
+.productos {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  height: 50vh;
+  background-color: #f8f8f8;
+}
+.producto {
+  text-align: center;
+}
+
+.nav3{
+    background-color: #ffd6e7;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.pie-pagina {
+  background-color: #c8ce8e;
+  padding: 10px;
+  text-align: center;
+  height: 10vh;
+}
